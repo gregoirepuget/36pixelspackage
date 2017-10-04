@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 36-pixels-package",
+        "command": "36-pixels-package:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "36-pixels-package",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "36-pixels-package:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
