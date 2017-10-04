@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "36-pixels-package:toggle"
   },
-  "repository": "https://github.com/atom/36-pixels-package",
+  "repository": "https://github.com/gregoirepuget/36pixelspackage",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
