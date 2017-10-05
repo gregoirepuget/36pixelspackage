@@ -1,7 +1,7 @@
 {
   "name": "36-pixels-package",
   "main": "./lib/36-pixels-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Snippets used in 36 Pixels agency",
   "keywords": [
     "36 Pixels",
