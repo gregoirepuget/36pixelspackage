@@ -2,8 +2,9 @@
   "name": "36-pixels-package",
   "main": "./lib/36-pixels-package",
   "version": "0.1.0",
-  "description": "Snippets used in 36 Pixels agency",
-  "keywords": [],
+   "description": "Snippets used in 36 Pixels agency",
+  "keywords": [ "36 Pixels","Snippets","Wordpress"
+  ],
   "activationCommands": {
     "atom-workspace": "36-pixels-package:toggle"
   },
@@ -12,5 +13,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
