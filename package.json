@@ -1,6 +1,5 @@
 {
   "name": "36-pixels-package",
-  "main": "./lib/36-pixels-package",
   "version": "0.1.2",
   "description": "Snippets used in 36 Pixels agency",
   "keywords": [
@@ -8,9 +7,6 @@
     "Snippets",
     "Wordpress"
   ],
-  "activationCommands": {
-    "atom-workspace": "36-pixels-package:toggle"
-  },
   "repository": "https://github.com/gregoirepuget/36pixelspackage",
   "license": "MIT",
   "engines": {
